@@ -15,7 +15,7 @@
 -->
 
 <resources>
-    <string name="app_name">AudioFX</string>
+    <string name="app_name">Equalizer</string>
 
     <!-- ControlPanelMusic strings -->
     <string name="no_effects">Effects not available.</string>
